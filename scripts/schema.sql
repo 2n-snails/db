@@ -282,6 +282,7 @@ INSERT INTO public."user"(user_no, user_provider_id, user_level, user_profile_im
 INSERT INTO public."user"(user_no, user_provider_id, user_level, user_profile_image, user_nick, user_provider, user_privacy, user_refresh_token, deleted, "createdAt", "updatedAt")	VALUES (2, '5678', 10, 'none', 'test2', 'kakao', true, 'none', 'N', '2021-09-16', '2021-09-16');	
 INSERT INTO public."user"(user_no, user_provider_id, user_level, user_profile_image, user_nick, user_provider, user_privacy, user_refresh_token, deleted, "createdAt", "updatedAt")	VALUES (3, '43432532', 10, 'none', 'test3', 'kakao', true, 'none', 'N', '2021-09-16', '2021-09-16');
 INSERT INTO public."user"(user_no, user_provider_id, user_level, user_profile_image, user_nick, user_provider, user_privacy, user_refresh_token, deleted, "createdAt", "updatedAt")	VALUES (4, '575463', 10, 'none', 'test4', 'kakao', true, 'none', 'N', '2021-09-16', '2021-09-16');
+INSERT INTO public."user"(user_no, user_provider_id, user_level, user_profile_image, user_nick, user_provider, user_privacy, user_refresh_token, deleted, "createdAt", "updatedAt")	VALUES (5, '5754631', 10, 'none', 'test5', 'kakao', true, 'none', 'N', '2021-09-16', '2021-09-16');
 
 -- product
 
