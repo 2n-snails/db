@@ -11,3 +11,6 @@ script 는 테이블이랑 임시 데이터들이 들어가있음
 
 docker-entrypoint-initdb.d 의 1.sql \ 2.sql 로 된 이유는
 파일 이름 내림차순으로 실행하기 때문임
+
+
+docker exec -it db_postgres psql -Uusername db -W
